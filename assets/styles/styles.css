@@ -721,6 +721,10 @@ footer {
         height: 695px;
     }
 
+    .discover-age {
+        padding: 0 10px;
+    }
+
     .age-card {
         max-width: 168px;
 
